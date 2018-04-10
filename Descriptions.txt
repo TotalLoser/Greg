@@ -1,0 +1,27 @@
+#Dwarf
+Con +2, Alignment tend to lawful and good, speed 25, advantage & resistance against poison, proficiencies: battleaxe, handaxe, throwing hammer, warhammer Hill Dwarf: +1 wis, +1HP per level Mountain Dwarf +2 str +proficiency light and med armor
+Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change. They respect the traditions of their clans, tracing their ancestry back to the founding of their most ancient strongholds in the youth of the world, and don't abandon those traditions lightly. Part of those traditions is devotion to the gods of the dwarves, who uphold the dwarven ideals of industrious labor, skill in battle, and devotion to the forge. Slow to tru
+#Elf
+#Halfling
+#Human
+#Dragonborn
+#Gnome
+#Half-Elf
+#Half-Orc
+#Tiefling
+#Barbarian
+#Bard
+#Cleric
+#Druid
+#Fighter
+#Monk
+#Paladin
+#Ranger
+#Rogue
+#Sorcerer
+#Warlock
+#Wizard
+#
+#
+#
+#

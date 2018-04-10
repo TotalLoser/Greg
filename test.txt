@@ -1,0 +1,1 @@
+[Name,Alignment,~Ideals~,~Bonds~,~Flaws~,~Background~,Race/Subrace,racialTrait1/racialTrait2,Class,classFeature1/classFeature2,proficiency1/proficiency2/<tool>+X,skill1/skill2<points>,0,0,0,hitDie1<number>/hitDie2<number>,0,0,0,0,0,0,0,0,0,0,0,0,equipment1<damageDie><damageMod><damageType>/equipment2,0,0]
